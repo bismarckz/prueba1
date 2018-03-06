@@ -1,0 +1,125 @@
+Envio archivo adjunto con datos de temas de node y Angular, para que nos ayuden a ver que es lo que tengo aqui en mi computadora, 
+
+sin mas gracias 
+
+Saludos
+
+
+
+01 Cómo Instalar NodeJS en tu equipo - Curso NodeJS y MongoDB #01
+02 Instalación de Express y Hola Mundo   Curso NodeJS y MongoDB #02
+03 Instalando body-parser y nodemon   Curso de NodeJS y MongoDB #03
+
+04 Cómo crear un endpoint con GET y parámetros en tu API REST   Curso NodeJS y MongoDB #04
+05 Qué métodos HTTP y Códigos de Respuesta utilizar en tu API REST   Curso NodeJS y MongoDB #05
+
+06 Cómo usar POSTMAN para testear tu API REST   Curso NodeJS y MongoDB #06
+07 Cómo instalar MongoDB y utilizar Mongoose como ORM ODM   Curso de NodeJS y MongoDB #07
+08 Cómo almacenar datos en MongoDB con HTTP POST en tu API   Curso NodeJS y MongoDB #08
+
+09 Como devolver datos con GET desde un API REST   Curso NodeJS y MongoDB #09
+10 Cómo implementar DELETE y UPDATE de registros en tu API REST   Curso de NodeJS y MongoDB  #10
+
+11 Refactoriza el código de tu API REST   Curso de NodeJS y MongoDB #11
+
+12 Crea un modelo User con Mongoose Schemas   Curso de NodeJS y MongoDB #12
+
+13 Qué es la autenticación basada en token   Curso de NodeJS y MongoDB #13
+14 Como crear un JSON Web Token JWT en tu API REST   Curso de NodeJS y MongoDB #14
+15 Cómo proteger rutas en tu API REST con JSON Web Tokens   Curso NodeJS y MongoDB #15
+16 Login y registro de usuarios con Token en tu API REST   Curso NodeJS y MongoDB  #16
+17 Cómo testear JSON Web Tokens con Postman   Curso de NodeJS y MongoDB #17
+18 Como renderizar vistas en Node.js   Curso NodeJS y MongoDB #18
+19 Como desplegar tu app NodeJ.js en Producción con Heroku   Curso NodeJS y MongoDB
+
+http://nodedotjstutorial.blogspot.mx/
+
+
+
+
+003 Instalar una teminal de comandos
+004 Instalar NodeJS
+006  Que haremos en las siguientes clases_
+007 Instalar Angular de forma b sica
+008 Angular CLI + Instalaci n de Angular + Hola mundo
+009 Crear proyecto en el editor de c digo
+011 Crear alias en la terminal
+012 Analisis de la estructura de ficheros
+014  Que es un componente y como funciona_
+015 Crear un componente
+016 Ejercicio y m ltiples componentes
+017  Que es TypeScript_
+018 Propiedades y tipos de datos
+019 El contructor_ m todos de un componente y NgOnInit
+020 Diferencia entre let y var
+021 Crear clases_ modelos de datos y objetos
+023  Que es una directiva_
+024 Directiva ngIf y evento click
+025 Directiva ngFor
+026 Directivas ngSwitch y ngStyle
+027 Two way data-binding
+028 NgStyle en atributo
+029 NgClass en atribu
+050 Introducci n a NgTemplate
+051 Crear componente y ruta
+052 If y else con NgTemplate
+053 If_ else y then
+055 Instalar servidor de aplicaciones web local
+056 Introducci n al desarrollo del servicio REST
+059 A adir carpeta al proyecto
+060 Creando la base de datos
+061 Instalar Framework para hacer APIs REST
+062 Configuraciones y pruebas b sicas
+063 El cliente REST Postman
+064 Conexi n a la base de datos
+065 M todo para guardar productos
+066 Devolver el listado de productos guardados
+067 Conseguir un producto
+068 M todo para borrar productos
+069 Actualizar productos
+070 Subir im genes al servidor
+071 Configurar cabeceras HTTP y acceso CORS
+
+073 Introduccion a la creacion de la webapp con Angular
+074 Instalar y generar proyecto base de Angular
+075 Incluir Bootstrap y jQuery
+076 Maquetacion web inicial (CSS y Bootsrap)
+077 Estilos para el men  de navegaci n y el footer
+078 Pagina Home
+079 Configurar el router
+080 P gina de error 404
+081 Enlaces del men  de navegacion
+082 Secci n de productos
+083 Marcar elementos del men 
+084 Fichero de configuracion global (ES6)
+085 Creando el servicio en Angular
+086 Listado de productos
+087 Secci n para crear productos
+088 Formulario para añadir productos
+089 Recoger los datos del formulario
+090 Validacion del formulario
+091 Guardar nuevos productos
+093 Subir imagenes
+094 Estilos para el listado
+095 P gina de detalle del producto
+096 Mostrar detalles
+097 P gina de edici n de productos
+098 Formulario para actualizar productos
+099 Enlaces en botones
+100 Poder borrar productos
+
+
+102 Ejercicio con propiedades Input (Decorador @Input)
+103 Decorador Output - Ejemplo practico
+105 Actualizar NodeJS
+106 Instalar Angular 5
+107 Actualizar un proyecto de Angular 4 a Angular 5
+109  Que es un componente en Angular 5_
+110 Como crear componentes en Angular 5 (Angular 4+)
+111 Directiva condicional NgIf
+112 Directiva NgFor
+113  Que es TypeScript aplicado a Angular 5_
+114 Plantillas independientes
+115 Propiedades y tipos de datos
+116 Usar jQuery dentro de Angular
+117 Proyecto de Angular en producci n
