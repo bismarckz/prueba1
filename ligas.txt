@@ -12,39 +12,6 @@ https://gitlab.alm.gsnetcloud.corp/
 
  
 
-XI324953
-
-N1santan$
-
- 
-
- 
-
-https://www.yammer.com/santander.com/
-
- 
-
-pruebaCommunity
-registry.global.paas.gsnetcloud.corp/produban/wordpress:2.4.0-WP-4.9.0-RELEASE
-
-https://stream.microsoft.com/es-es/
-
- 
-
-Z805500
-
-M1santan
-
-
-
-
-
-Site Title	 Community-test
-Username	 rootSanta
-Password 	4#LRXtsE0#z$9tP5R@
-Your Email	gdgonzalez@serviciosexternos.isban
-
-N1Santan$
 
 crecion de un  servicio REST 				https://spring.io/guides/gs/rest-service/
 Consumiendo un  servicio REST				https://spring.io/guides/gs/consuming-rest/
