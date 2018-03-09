@@ -1,0 +1,40 @@
+pagina de spring bootdando un ecocistema 
+https://github.com/spring-cloud/spring-cloud-gateway
+https://spring.io/blog/2018/02/27/spring-cloud-finchley-m7-has-been-released
+
+creando dos microservicios
+http://www.springboottutorial.com/creating-microservices-with-spring-boot-part-2-forex-microservice
+http://www.springboottutorial.com/spring-boot-projects-with-code-examples
+https://o7planning.org/en/11267/spring-boot-tutorial-for-beginners
+
+https://github.com/Apress/beg-spring-boot-2
+https://g00glen00b.be/getting-started-spring-boot-2/
+https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0.0-M1-Release-Notes
+https://www.tutorialspoint.com/jenkins/jenkins_distributed_builds.htm
+https://windoctor7.github.io/Programacion-Reactiva-Spring5.html
+https://www.adictosaltrabajo.com/tutoriales/programacion-reactiva-uso-de-la-libreria-rxjs/
+https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/
+http://mydevgeek.com/angular-4-crud-application-with-spring-boot-rest-service-part-2/
+http://javasampleapproach.com/spring-framework/spring-boot/spring-framework-4-3-new-feature-requestmapping-getmapping-postmapping-putmapping-deletemapping
+https://www.tutorialspoint.com/amazon_web_services/index.htm
+https://aws.amazon.com/es/free/?sc_icontent=awssm-evergreen-free_tier&sc_iplace=2up&trk=ha_awssm-evergreen-free_tier
+
+
+
+Los parámetros de la solicitud mapeada, que reduce la asignación primaria.
+
+El mismo formato para cualquier entorno: una secuencia de expresiones de estilo "myParam = myValue", 
+con una solicitud solo asignada si se encuentra que cada parámetro tiene el valor dado. 
+Las expresiones se pueden negar utilizando el operador "! =", Como en "myParam! = MyValue". 
+Las expresiones de estilo "myParam" también son compatibles, y dichos parámetros deben estar presentes en la solicitud 
+(se permite tener cualquier valor). Finalmente, las expresiones de estilo "! MyParam" 
+indican que no se supone que el parámetro especificado esté presente en la solicitud.
+
+¡Compatible tanto con el nivel de tipo como a nivel de método! Cuando se utilizan en el nivel de tipo, 
+todas las asignaciones de nivel de método heredan esta restricción de parámetro (es decir, la restricción de nivel de tipo
+ se verifica antes de que el método de tratamiento se resuelva).
+
+Las asignaciones de parámetros se consideran restricciones que se aplican en el nivel de tipo. 
+El mapeo de ruta principal (es decir, el valor de URI especificado) todavía tiene que identificar de forma única al 
+manejador de destino, con asignaciones de parámetros que simplemente expresan condiciones previas para invocar el 
+manejador.	
