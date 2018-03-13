@@ -45,3 +45,9 @@ Las asignaciones de parámetros se consideran restricciones que se aplican en el
 El mapeo de ruta principal (es decir, el valor de URI especificado) todavía tiene que identificar de forma única al 
 manejador de destino, con asignaciones de parámetros que simplemente expresan condiciones previas para invocar el 
 manejador.	
+
+
+
+http://enmilocalfunciona.io/arquitectura-microservicios-1/
+https://dzone.com/articles/features-in-java-10
+https://windoctor7.github.io/webflux-kotlin.html
