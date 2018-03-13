@@ -18,23 +18,30 @@ http://mydevgeek.com/angular-4-crud-application-with-spring-boot-rest-service-pa
 http://javasampleapproach.com/spring-framework/spring-boot/spring-framework-4-3-new-feature-requestmapping-getmapping-postmapping-putmapping-deletemapping
 https://www.tutorialspoint.com/amazon_web_services/index.htm
 https://aws.amazon.com/es/free/?sc_icontent=awssm-evergreen-free_tier&sc_iplace=2up&trk=ha_awssm-evergreen-free_tier
+http://www.devglan.com/spring-boot/spring-boot-angular-example                 //Angular co Spring
+http://www.baeldung.com/angularjs-crud-with-spring-data-rest                   //Angular co Spring
+https://www.callicoder.com/spring-boot-mongodb-angular-js-rest-api-tutorial/   //Angular co Spring
+https://developer.okta.com/blog/2017/12/04/basic-crud-angular-and-spring-boot  //Angular co Spring
+https://mydevgeek.com/angular-4-crud-application-with-spring-boot-rest-service-part-1/
+https://www.adictosaltrabajo.com/tutoriales/desarrollo-de-microservicios-con-spring-boot-y-docker/
+https://github.com/priya-dwivedi/Deep-Learning/tree/master/qa_chat_bot   //Ia phyton
 
+https://aws.amazon.com/getting-started/
 
-
-Los par·metros de la solicitud mapeada, que reduce la asignaciÛn primaria.
+Los par√°metros de la solicitud mapeada, que reduce la asignaci√≥n primaria.
 
 El mismo formato para cualquier entorno: una secuencia de expresiones de estilo "myParam = myValue", 
-con una solicitud solo asignada si se encuentra que cada par·metro tiene el valor dado. 
+con una solicitud solo asignada si se encuentra que cada par√°metro tiene el valor dado. 
 Las expresiones se pueden negar utilizando el operador "! =", Como en "myParam! = MyValue". 
-Las expresiones de estilo "myParam" tambiÈn son compatibles, y dichos par·metros deben estar presentes en la solicitud 
+Las expresiones de estilo "myParam" tambi√©n son compatibles, y dichos par√°metros deben estar presentes en la solicitud 
 (se permite tener cualquier valor). Finalmente, las expresiones de estilo "! MyParam" 
-indican que no se supone que el par·metro especificado estÈ presente en la solicitud.
+indican que no se supone que el par√°metro especificado est√© presente en la solicitud.
 
-°Compatible tanto con el nivel de tipo como a nivel de mÈtodo! Cuando se utilizan en el nivel de tipo, 
-todas las asignaciones de nivel de mÈtodo heredan esta restricciÛn de par·metro (es decir, la restricciÛn de nivel de tipo
- se verifica antes de que el mÈtodo de tratamiento se resuelva).
+¬°Compatible tanto con el nivel de tipo como a nivel de m√©todo! Cuando se utilizan en el nivel de tipo, 
+todas las asignaciones de nivel de m√©todo heredan esta restricci√≥n de par√°metro (es decir, la restricci√≥n de nivel de tipo
+ se verifica antes de que el m√©todo de tratamiento se resuelva).
 
-Las asignaciones de par·metros se consideran restricciones que se aplican en el nivel de tipo. 
-El mapeo de ruta principal (es decir, el valor de URI especificado) todavÌa tiene que identificar de forma ˙nica al 
-manejador de destino, con asignaciones de par·metros que simplemente expresan condiciones previas para invocar el 
+Las asignaciones de par√°metros se consideran restricciones que se aplican en el nivel de tipo. 
+El mapeo de ruta principal (es decir, el valor de URI especificado) todav√≠a tiene que identificar de forma √∫nica al 
+manejador de destino, con asignaciones de par√°metros que simplemente expresan condiciones previas para invocar el 
 manejador.	
